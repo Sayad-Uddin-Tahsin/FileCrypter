@@ -27,7 +27,7 @@ To get started with FileCrypter, follow these simple steps:
 
 ## Support and Contact
 
-If you encounter any issues, have questions, or need assistance with FileCrypter, please don't hesitate to contact our support team. You can reach us via email at [Email](mailto:mr.pluto012@gmail.com?subject=GitHub%20Repository:%20FileCrypter&body=%0A%0A%0AThis%20mail%20has%20been%20sent%20after%20the%20redirection%20to%20Gmail%20from%20Github:%20https://github.com/Sayad-Uddin-Tahsin/FileCrypter).
+If you encounter any issues, have questions, or need assistance with FileCrypter, please don't hesitate to contact our support team. You can reach us via email at [Email](mailto:mr.pluto012@gmail.com?subject=Installation%20Inquiry:%20FileCrypter&body=%0A%0A%0AThis%20mail%20has%20been%20sent%20after%20the%20redirection%20from%20Github:%20https://github.com/Sayad-Uddin-Tahsin/FileCrypter).
 
 Once again, thank you for choosing FileCrypter. We hope you have a great experience using our application!
 
