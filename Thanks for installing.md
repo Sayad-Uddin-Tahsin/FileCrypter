@@ -25,6 +25,12 @@ To get started with FileCrypter, follow these simple steps:
 5. Monitor the progress through the interactive progress bar as FileCrypter securely processes your files.
 6. Enjoy the peace of mind knowing that your files are encrypted and protected.
 
+## Uninstalling FileCrypter
+
+**IMPORTANT: UNINSTALLING THE APPLICATION WITH ENCRYPTED FILES WILL RESULT IN PERMANENT LOSS OF THE ENCRYPTED FILES.**
+
+Please be aware that uninstalling FileCrypter without decrypting your files first will cause the encrypted files to be permanently lost. It is highly recommended to decrypt your files before uninstalling the application to ensure you can access them in the future.
+
 ## Support and Contact
 
 If you encounter any issues, have questions, or need assistance with FileCrypter, please don't hesitate to contact our support team. You can reach us via email at [Email](mailto:mr.pluto012@gmail.com?subject=Installation%20Inquiry:%20FileCrypter&body=%0A%0A%0AThis%20mail%20has%20been%20sent%20after%20the%20redirection%20from%20Github:%20https://github.com/Sayad-Uddin-Tahsin/FileCrypter).
