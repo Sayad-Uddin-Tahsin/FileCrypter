@@ -80,4 +80,4 @@ If you have any questions, concerns, or require assistance, please refer to the 
 This project is licensed under the [`MIT License`](https://github.com/Sayad-Uddin-Tahsin/FileCrypter/blob/main/LICENSE).
 
 ## Contact
-If you have any questions, suggestions, or just want to say hi, feel free to reach out to us at our [Email](mailto:mr.pluto012@gmail.com?subject=GitHub%20Repository:%20FileCrypter&body=%0A%0A%0AThis%20mail%20has%20been%20sent%20after%20the%20redirection%20to%20Gmail%20from%20Github:%20https://github.com/Sayad-Uddin-Tahsin/FileCrypter).
+If you have any questions, suggestions, or just want to say hi, feel free to reach out to us at [Email](mailto:mr.pluto012@gmail.com?subject=GitHub%20Repository:%20FileCrypter&body=%0A%0A%0AThis%20mail%20has%20been%20sent%20after%20the%20redirection%20to%20Gmail%20from%20Github:%20https://github.com/Sayad-Uddin-Tahsin/FileCrypter).
