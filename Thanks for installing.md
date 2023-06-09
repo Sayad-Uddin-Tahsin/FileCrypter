@@ -1,4 +1,4 @@
-# Thank you for Installing FileCrypter
+# Thanks for Installing FileCrypter
 
 Thank you for choosing to install FileCrypter! We appreciate your support and hope you find our application useful and enjoyable to use.
 
