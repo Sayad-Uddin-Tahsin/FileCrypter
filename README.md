@@ -27,57 +27,21 @@ Decrypting files: 100%|███████████████████
 
 ## Installation
 
-<details closed=True>
-  <summary>Installation with Git</summary>
-
-  **1. Clone the repository:**
+**1. Download the Latest Release:**
   
-  Execute the following git command to Clone the repository on your PC:
+  Visit the [Releases](https://github.com/Sayad-Uddin-Tahsin/FileCrypter/releases) page of the FileCrypter GitHub repository and download the FileCrypter Installer from the latest release.
   
-  ```console
-  git clone https://github.com/Sayad-Uddin-Tahsin/FileCrypter.git
-  ```
-
-  **2. Navigate to the project directory:**
-  ```console
-  cd FileCrypter
-  ```
-
-  **3. Install the required Dependencies:**
-
-  - **Automatic:** To install the required dependencies, please run the `install.cmd` file.
-
-  - **Manually:** To install the required dependencies, please execute the following command:
-
-    ```
-    pip install -r requirements.txt
-    ```
-</details>
-
-<details closed=True>
-
-<summary>Installation with ZIP</summary>
-
-**1. Downloading the repository:** Download the [repository](https://github.com/Sayad-Uddin-Tahsin/FileCrypter/archive/refs/heads/main.zip)
-
-**2. Extract the zip file:** Extract the files from the zip (`FileCrypter-main.zip`) to a location.
+  **2. Run the Installer:**
   
-**2. Navigate to the project directory:** Navigate to the File which you just created during the extraction.
+  Locate the installer executable within the extracted package and run it. Follow the on-screen instructions to install FileCrypter.
 
-**3. Install the required Dependencies:**
+  **3. Start Using FileCrypter:**
+  
+  Once the installation is complete, you can launch FileCrypter and start encrypting and decrypting your files with enhanced security.
 
-- **Automatic:** To install the required dependencies, please run the `install.cmd` file.
-
-- **Manually:** To install the required dependencies, please execute the following command:
-
-  ```
-  pip install -r requirements.txt
-  ```
-
-</details>
 
 ## Usage
-Run the `main.py` on the project directory.
+Run the `FileCrypter` from the Desktop Shortcut/Startup Shortcut.
 
 1. Set a password (for first time use) or enter your password you've been set.
 2. Choose the desired operation (Encrypt/Decrypt) and follow the on-screen instructions.
